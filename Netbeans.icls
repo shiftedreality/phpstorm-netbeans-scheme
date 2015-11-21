@@ -1,0 +1,360 @@
+<scheme name="Netbeans" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="e9eef7" />
+    <option name="LINE_NUMBERS_COLOR" value="0" />
+    <option name="SELECTION_BACKGROUND" value="b0c5e3" />
+    <option name="SELECTION_FOREGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
+    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="CSS.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="969696" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="7a00" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="232a40" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="7c00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="9900" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="2d7a31" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="9900" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+      </value>
+    </option>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="969696" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+      </value>
+    </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
+    <option name="JS.BADCHARACTER">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JS.DOC_MARKUP">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.DOC_TAG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value />
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value />
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value />
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value />
+    </option>
+    <option name="JS.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="e67a00" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value />
+    </option>
+    <option name="JS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="608fff" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="9933cc" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="cc7a00" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="e67a00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="b0c5e3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="969696" />
+      </value>
+    </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="29a02" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="949494" />
+      </value>
+    </option>
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="6c3d03" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="29a02" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff00ff" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="6d3206" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="29a02" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="6d3206" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="TWIG_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="966738" />
+      </value>
+    </option>
+    <option name="TWIG_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="969696" />
+      </value>
+    </option>
+    <option name="TWIG_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a0a0" />
+      </value>
+    </option>
+    <option name="TWIG_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="a0a0" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+        <option name="FOREGROUND" value="b4b427" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="e6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="ce7b00" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
