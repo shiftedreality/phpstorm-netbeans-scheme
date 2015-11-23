@@ -10,7 +10,6 @@
   </colors>
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CSS.COMMENT">
       <value>
         <option name="FOREGROUND" value="969696" />
@@ -221,7 +220,6 @@
         <option name="FOREGROUND" value="949494" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_FUNCTION">
       <value>
         <option name="FOREGROUND" value="0" />
